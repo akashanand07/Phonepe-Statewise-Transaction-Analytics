@@ -1,4 +1,4 @@
-[13:16, 25/01/2026] ... Akash Anand: # PhonePe Statewise Transaction Analytics 📊
+# PhonePe Statewise Transaction Analytics 📊
 
 ## Project Overview
 This project analyzes *PhonePe statewise transaction data (2020–2024)* to uncover transaction trends, growth patterns, and state-level performance.
@@ -33,7 +33,6 @@ The analysis is performed using *SQL (MySQL)* and visualized through *Power BI* 
 ---
 
 ## Project Structure
-[13:16, 25/01/2026] ... Akash Anand: ---
 
 ## SQL Analysis Performed
 - State-wise total transaction amount

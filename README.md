@@ -60,6 +60,9 @@ The Power BI dashboard provides:
 - Interactive filters for deeper insights
 
 ---
+## 📸 Dashboard Preview
+
+![PhonePe Dashboard](Phonepe%20Dashboard.png)
 
 ## Conclusion
 This project demonstrates *end-to-end data analytics skills*, including:

@@ -62,7 +62,7 @@ The Power BI dashboard provides:
 ---
 ## 📸 Dashboard Preview
 
-![PhonePe Dashboard](Phonepe%20Dashboard.png)
+![PhonePe Dashboard](Phonepe%20Dashboard.png) 
 
 
 ## Conclusion
